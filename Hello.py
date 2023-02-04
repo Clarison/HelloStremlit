@@ -5,12 +5,14 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to Streamlit! 👋")
+st.write("# Welcome to Streamlit by Group 6! 👋")
 
 st.sidebar.success("Select a demo above.")
 
 st.markdown(
     """
+    This is our understanding and some baby steps towards learning please
+    Explore around.
     Streamlit is an open-source app framework built specifically for
     Machine Learning and Data Science projects.
     **👈 Select a demo from the sidebar** to see some examples
